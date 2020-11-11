@@ -13,6 +13,7 @@
   "keywords": [],
   "author": "Adi Vemuru",
   "license": "MIT",
+  "homepage": "https://github.com/vemuruadi/vemuruadi#readme",
   "dependencies": {
     "colorette": "^1.2.1"
   }

@@ -8,7 +8,7 @@ npx vemuruadi
 ```
 Adi Vemuru / vemuruadi / vemuruadi.com
 
-         Work: Fresh Qube, Founder - Building Customer-Led and Data-Driven Products with Cloud Native Technologies
+         Work: Fresh Qube, Founder - Building Customer-Led and Data-Driven Products
        Github: vemuruadi
       Twitter: @vemuruadi
      LinkedIn: linkedin.com/in/vemuruadi
