@@ -1,0 +1,19 @@
+{
+  "name": "vemuruadi",
+  "version": "1.0.1",
+  "description": "vemuruadi details card as npm package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vemuruadi/vemuruadi.git"
+  },
+  "keywords": [],
+  "author": "Adi Vemuru",
+  "license": "MIT",
+  "dependencies": {
+    "colorette": "^1.2.1"
+  }
+}
