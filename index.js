@@ -1,3 +1,4 @@
+#!/usr/bin/env node
 
 const { white, cyan, bold, blue } = require('colorette')
 
