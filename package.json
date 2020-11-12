@@ -3,6 +3,9 @@
   "version": "1.0.1",
   "description": "vemuruadi details card as npm package",
   "main": "index.js",
+  "bin": {
+    "vemuruadi": "index.js"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
