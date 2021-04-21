@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://pbs.twimg.com/profile_images/1044156028915343361/uiUvIvLm_400x400.jpg" alt="Adi Vemuru">
-</p>
 
 ```bash
 npx vemuruadi
