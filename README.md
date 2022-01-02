@@ -5,7 +5,7 @@ npx vemuruadi
 ```
 Adi Vemuru / vemuruadi / vemuruadi.com
 
-     Work: Fresh Qube, CoFounder - Cloud Native Technologies, AWS | Product Led Growth | B2B SaaS Products
+     Work: OpenPlay, VP Engineering - Cloud Native Technologies, AWS | Gaming
      Email: vemuruadi@gmail.com
      Github: vemuruadi
      Twitter: @vemuruadi
